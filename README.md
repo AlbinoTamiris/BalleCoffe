@@ -31,3 +31,6 @@ Se quiser sugerir melhorias ou contribuir com o projeto, fique à vontade para a
 
 ## Créditos
 Projeto desenvolvido com base em uma aula da [Rafaella Ballerini](https://www.youtube.com/@RafaellaBallerini).
+
+## Preview da Landing Page  
+![Preview da Landing Page](assets/preview.png)
